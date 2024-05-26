@@ -11,6 +11,21 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [German governmental organizations on GitHub](https://government.github.com/community/#governments-germany)
 - [Federal IT cooperation (FITKO)](https://git.fitko.de/fit-connect)
 
+### Federal states
+
+- [Schleswig-Holstein](https://code.schleswig-holstein.de/explore)
+
+### Cities
+
+- Karlsruhe ([Github](https://github.com/stadt-karlsruhe))
+- Munich
+  - [opensource.muenchen.de](https://opensource.muenchen.de/): Overview over open source activities of the city of Munich
+  - [LHM (OpenCoDE)](https://gitlab.opencode.de/landeshauptstadt-muenchen)
+  - [it@M (GitHub)](https://github.com/it-at-m)
+  - [WollMux (GitHub)](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
+- Treuchtlingen ([Codeberg](https://codeberg.org/stadt_treuchtlingen))
+- Ulm ([GitHub](https://github.com/stadtulm))
+
 ## Open data
 
 - [Official open data portal for Germany (GovData)](https://www.govdata.de/)
@@ -39,21 +54,6 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [AusweisApp2 (eID-Client)](https://github.com/Governikus/AusweisApp2)
 - [Corona-Warn-App](https://github.com/corona-warn-app)
   - [Inofficial fork without proprietary Google libraries](https://codeberg.org/corona-contact-tracing-germany/cwa-android)
-
-## Federal states
-
-- [Schleswig-Holstein](https://code.schleswig-holstein.de/explore)
-
-## Cities
-
-- Karlsruhe ([Github](https://github.com/stadt-karlsruhe))
-- Munich
-  - [opensource.muenchen.de](https://opensource.muenchen.de/): Overview over open source activities of the city of Munich
-  - [LHM (OpenCoDE)](https://gitlab.opencode.de/landeshauptstadt-muenchen)
-  - [it@M (GitHub)](https://github.com/it-at-m)
-  - [WollMux (GitHub)](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
-- Treuchtlingen ([Codeberg](https://codeberg.org/stadt_treuchtlingen))
-- Ulm ([GitHub](https://github.com/stadtulm))
 
 ---
 
