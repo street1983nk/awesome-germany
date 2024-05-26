@@ -20,6 +20,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [Open Data for public transport](https://www.opendata-oepnv.de/)
 - [Open tourism data Germany](https://open-data-germany.org/)
 - [German weather service](https://www.dwd.de/DE/leistungen/opendata/opendata.html)
+- [XÖV standard](https://www.xrepository.de/)
 
 ## Mobile apps
 
