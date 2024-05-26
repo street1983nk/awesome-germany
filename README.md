@@ -50,7 +50,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 - [Karlsruhe on Github](https://github.com/stadt-karlsruhe)
 
-###
+### Treuchtlingen
 
 - [Treuchtlingen on Codeberg](https://codeberg.org/stadt_treuchtlingen)
 
