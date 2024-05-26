@@ -33,6 +33,10 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 - [eID-Login](https://github.com/eid-login): Plugins to implement login with the german passport ("Personalausweis")
 
+## Federal states
+
+- [Schleswig-Holstein](https://code.schleswig-holstein.de/explore)
+
 ## Cities
 
 ### Munich
