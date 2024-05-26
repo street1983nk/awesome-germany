@@ -79,6 +79,8 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
 - [Data Guide](https://github.com/datenguide/datenguide): Guide and tools explaining how to use official German statistics sites
 - [FOSS Warn](https://github.com/nucleus-ffm/foss_warn): App with official warnings
+- [ozg](https://github.com/LilithWittmann/ozg): parser and converter to jsonschema-forms for the [xDatenfelder](https://www.xrepository.de/api/xrepository/urn:xoev-de:fim:standard:xdatenfelder_2.0:dokument:XDatenfelder_Spezifikation) format
+- [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 
 # Other governments
 
