@@ -39,25 +39,14 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 ## Cities
 
-### Munich
-
-- [opensource.muenchen.de](https://opensource.muenchen.de/): Overview over open source activities of the city of Munich
-- [LHM (OpenCoDE)](https://gitlab.opencode.de/landeshauptstadt-muenchen)
-- [it@M (GitHub)](https://github.com/it-at-m)
-- [WollMux (GitHub)](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
-
-### Karlsruhe
-
-- [Karlsruhe on Github](https://github.com/stadt-karlsruhe)
-
-### Ulm
-
-- [Ulm on GitHub](https://github.com/stadtulm)
-
-### Treuchtlingen
-
-- [Treuchtlingen on Codeberg](https://codeberg.org/stadt_treuchtlingen)
-
+- Karlsruhe ([Github](https://github.com/stadt-karlsruhe))
+- Munich
+  - [opensource.muenchen.de](https://opensource.muenchen.de/): Overview over open source activities of the city of Munich
+  - [LHM (OpenCoDE)](https://gitlab.opencode.de/landeshauptstadt-muenchen)
+  - [it@M (GitHub)](https://github.com/it-at-m)
+  - [WollMux (GitHub)](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
+- Treuchtlingen ([Codeberg](https://codeberg.org/stadt_treuchtlingen))
+- Ulm ([GitHub](https://github.com/stadtulm))
 
 ---
 
