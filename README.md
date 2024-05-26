@@ -6,8 +6,8 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 ## Open source
 
-- [Official portal for public administration in Germany (OpenCoDE)](https://opencode.de/)
-  - [The sovereign desk (openDesk)](https://gitlab.opencode.de/bmi/opendesk)
+- [Official portal for public administration in Germany (OpenCoDE) by ZenDiS](https://opencode.de/)
+  - [The sovereign desk (openDesk) by ZenDiS](https://gitlab.opencode.de/bmi/opendesk)
 - [German governmental organizations on GitHub](https://government.github.com/community/#governments-germany)
 - [Federal IT cooperation (FITKO)](https://git.fitko.de/fit-connect)
 
