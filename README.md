@@ -17,21 +17,28 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [Spacial Data Infrastructure Germany (SDI Germany)](https://www.gdi-de.org/)
 - [Statistical federal office](https://www.destatis.de/EN/Service/OpenData/_node.html)
 - [Statistical offices](https://www.statistikportal.de/)
-- [Open Data for public transport](https://mobilithek.info/)
-- [DELFI standard for public transport data](https://www.opendata-oepnv.de/ht/de/organisation/delfi/startseite)
+- [Open data for public transport](https://mobilithek.info/)
 - [Open tourism data Germany](https://open-data-germany.org/)
 - [German weather service](https://www.dwd.de/DE/leistungen/opendata/opendata.html)
-- [XÖV standard](https://www.xrepository.de/)
+
+## Standards
+
+- [XÖV standard for public administration data](https://www.xrepository.de/)
+- [DELFI standard for public transport data](https://www.opendata-oepnv.de/ht/de/organisation/delfi/startseite)
+
+## Libraries
+
+- [eID-Login](https://github.com/eid-login): Plugins to implement login with the german passport ("Personalausweis")
+
+## APIs
+
+- [bund.dev](https://bund.dev/): German government APIs (documented by the civic tech community)
 
 ## Mobile apps
 
 - [AusweisApp2 (eID-Client)](https://github.com/Governikus/AusweisApp2)
 - [Corona-Warn-App](https://github.com/corona-warn-app)
   - [Inofficial fork without proprietary Google libraries](https://codeberg.org/corona-contact-tracing-germany/cwa-android)
-
-## Libraries
-
-- [eID-Login](https://github.com/eid-login): Plugins to implement login with the german passport ("Personalausweis")
 
 ## Federal states
 
@@ -63,7 +70,6 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [GeoServer](https://geoserver.org/): Server for sharing geospatial data
 - [Democracy](https://github.com/demokratie-live/): App where citizens can vote on topics discussed in the German parliament ("Bundestag")
 - [Code for Germany](https://codefor.de/projekte/): Civic projects helping digitalization in Germany
-- [bund.dev](https://bund.dev/): Civic tech community that documents government APIs
 - [`publiccode.yml`](https://yml.publiccode.tools/): Metadata standard for software repositories of Public Administration
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
 - [Data Guide](https://github.com/datenguide/datenguide): Guide and tools explaining how to use official German statistics sites
