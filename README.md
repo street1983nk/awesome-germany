@@ -68,12 +68,14 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [Masterportal](https://www.masterportal.org/home.html): City map with custom layers
 - [GeoNetwork](https://www.geonetwork-opensource.org/): Catalog application to manage spatially referenced resources
 - [GeoServer](https://geoserver.org/): Server for sharing geospatial data
+- [OpenStretMap](https://www.openstreetmap.org/about): Open maps
 - [Democracy](https://github.com/demokratie-live/): App where citizens can vote on topics discussed in the German parliament ("Bundestag")
 - [Code for Germany](https://codefor.de/projekte/): Civic projects helping digitalization in Germany
 - [`publiccode.yml`](https://yml.publiccode.tools/): Metadata standard for software repositories of Public Administration
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
 - [Data Guide](https://github.com/datenguide/datenguide): Guide and tools explaining how to use official German statistics sites
 - [FOSS Warn](https://github.com/nucleus-ffm/foss_warn): App with official warnings
+- [Freifunk](https://freifunk.net/): Open communication networks
 - [ozg](https://github.com/LilithWittmann/ozg): parser and converter to jsonschema-forms for the [xDatenfelder](https://www.xrepository.de/api/xrepository/urn:xoev-de:fim:standard:xdatenfelder_2.0:dokument:XDatenfelder_Spezifikation) format
 - [libzufi](https://github.com/codedust/xzufi): library to parse XZuFi data
 
