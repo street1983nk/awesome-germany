@@ -48,6 +48,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 ## APIs
 
 - [bund.dev](https://bund.dev/): German government APIs (documented by the civic tech community)
+- [InfraNode](https://infranode.dev/): Free, keyless REST API and MCP server for open data of 84 German cities (weather, DWD warnings, air quality, public transit, traffic, water levels, energy/SMARD, statistics), Apache-2.0
 
 ## Mobile apps
 
